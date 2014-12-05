@@ -1,0 +1,17 @@
+{
+"name": "CountryListLocale",
+"description": "ZF2 List of countries and regions for use in form",
+"license": "GPLv3",
+"authors": [
+{
+"name": "Basilio Fajardo",
+"email": "bfgnet@yahoo.es"
+}
+],
+"minimum-stability": "stable",
+"require": {
+"zendframework/zendframework": "2.*@stable"
+},
+"autoload": {
+"classmap": ["Module.php"]
+}
