@@ -1,0 +1,18 @@
+<?php return array (
+  'Auckland' => 'Auckland',
+  'Bay of Plenty' => 'Bay of Plenty',
+  'Canterbury' => 'Canterbury',
+  'Gisborne' => 'Gisborne',
+  'Hawke\'s Bay' => 'Hawke\'s Bay',
+  'Marlborough' => 'Marlborough',
+  'Manawatu-Wanganui' => 'Manawatu-Wanganui',
+  'Nelson' => 'Nelson',
+  'Northland' => 'Northland',
+  'Otago' => 'Otago',
+  'Southland' => 'Southland',
+  'Tasman' => 'Tasman',
+  'Taranaki' => 'Taranaki',
+  'Wellington' => 'Wellington',
+  'Waikato' => 'Waikato',
+  'West Coast' => 'West Coast',
+);

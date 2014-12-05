@@ -1,0 +1,16 @@
+<?php return array (
+  'Kingston' => 'Kingston',
+  'Saint Andrew' => 'Saint Andrew',
+  'Saint Thomas' => 'Saint Thomas',
+  'Portland' => 'Portland',
+  'Saint Mary' => 'Saint Mary',
+  'Saint Ann' => 'Saint Ann',
+  'Trelawny' => 'Trelawny',
+  'Saint James' => 'Saint James',
+  'Hanover' => 'Hanover',
+  'Westmoreland' => 'Westmoreland',
+  'Saint Elizabeth' => 'Saint Elizabeth',
+  'Manchester' => 'Manchester',
+  'Clarendon' => 'Clarendon',
+  'Saint Catherine' => 'Saint Catherine',
+);

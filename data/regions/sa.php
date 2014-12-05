@@ -1,0 +1,15 @@
+<?php return array (
+  'Al Riyadh' => 'Al Riyadh',
+  'Makkah' => 'Makkah',
+  'Al Madinah' => 'Al Madinah',
+  'Eastern Province' => 'Eastern Province',
+  'Al Qasim' => 'Al Qasim',
+  'Ha\'il' => 'Ha\'il',
+  'Tabuk' => 'Tabuk',
+  'Northern Border' => 'Northern Border',
+  'Jizan' => 'Jizan',
+  'Najran' => 'Najran',
+  'Al Bahah' => 'Al Bahah',
+  'Al Jawf' => 'Al Jawf',
+  'Asir' => 'Asir',
+);

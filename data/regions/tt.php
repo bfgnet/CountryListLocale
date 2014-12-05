@@ -1,0 +1,18 @@
+<?php return array (
+  'Arima' => 'Arima',
+  'Chaguanas' => 'Chaguanas',
+  'Couva-Tabaquite-Talparo' => 'Couva-Tabaquite-Talparo',
+  'Diego Martin' => 'Diego Martin',
+  'Eastern Tobago' => 'Eastern Tobago',
+  'Penal-Debe' => 'Penal-Debe',
+  'Port of Spain' => 'Port of Spain',
+  'Princes Town' => 'Princes Town',
+  'Point Fortin' => 'Point Fortin',
+  'Rio Claro-Mayaro' => 'Rio Claro-Mayaro',
+  'San Fernando' => 'San Fernando',
+  'Sangre Grande' => 'Sangre Grande',
+  'Siparia' => 'Siparia',
+  'San Juan-Laventille' => 'San Juan-Laventille',
+  'Tunapuna-Piarco' => 'Tunapuna-Piarco',
+  'Western Tobago' => 'Western Tobago',
+);

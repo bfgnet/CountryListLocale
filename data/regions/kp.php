@@ -1,0 +1,15 @@
+<?php return array (
+  'Chagang' => 'Chagang',
+  'North Hamgyong' => 'North Hamgyong',
+  'South Hamgyong' => 'South Hamgyong',
+  'North Hwanghae' => 'North Hwanghae',
+  'South Hwanghae' => 'South Hwanghae',
+  'Kaesong' => 'Kaesong',
+  'Kangwon' => 'Kangwon',
+  'Rason' => 'Rason',
+  'Nampho' => 'Nampho',
+  'North Pyongan' => 'North Pyongan',
+  'South Pyongan' => 'South Pyongan',
+  'Pyongyang' => 'Pyongyang',
+  'Ryanggang' => 'Ryanggang',
+);

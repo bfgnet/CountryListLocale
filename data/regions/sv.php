@@ -1,0 +1,16 @@
+<?php return array (
+  'Ahuachapán' => 'Ahuachapán',
+  'Cabañas' => 'Cabañas',
+  'Chalatenango' => 'Chalatenango',
+  'Cuscatlán' => 'Cuscatlán',
+  'La Libertad' => 'La Libertad',
+  'Morazán' => 'Morazán',
+  'La Paz' => 'La Paz',
+  'Santa Ana' => 'Santa Ana',
+  'San Miguel' => 'San Miguel',
+  'Sonsonate' => 'Sonsonate',
+  'San Salvador' => 'San Salvador',
+  'San Vicente' => 'San Vicente',
+  'La Unión' => 'La Unión',
+  'Usulután' => 'Usulután',
+);

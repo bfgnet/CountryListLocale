@@ -1,0 +1,17 @@
+<?php return array (
+  'Aysen del General Carlos Ibáñez del Campo' => 'Aysen del General Carlos Ibáñez del Campo',
+  'Antofagasta' => 'Antofagasta',
+  'Arica y Parinacota' => 'Arica y Parinacota',
+  'La Araucanía' => 'La Araucanía',
+  'Atacama' => 'Atacama',
+  'Bío-Bío' => 'Bío-Bío',
+  'Coquimbo' => 'Coquimbo',
+  'Libertador General Bernardo O\'Higgins' => 'Libertador General Bernardo O\'Higgins',
+  'Los Lagos' => 'Los Lagos',
+  'Los Ríos' => 'Los Ríos',
+  'Magallanes y de La Antártica Chilena' => 'Magallanes y de La Antártica Chilena',
+  'Maule' => 'Maule',
+  'Región Metropolitana de Santiago' => 'Región Metropolitana de Santiago',
+  'Tarapacá' => 'Tarapacá',
+  'Valparaíso' => 'Valparaíso',
+);

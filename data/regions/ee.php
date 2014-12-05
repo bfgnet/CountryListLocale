@@ -1,0 +1,17 @@
+<?php return array (
+  'Harjumaa' => 'Harjumaa',
+  'Hiiumaa' => 'Hiiumaa',
+  'Ida-Virumaa' => 'Ida-Virumaa',
+  'Jõgevamaa' => 'Jõgevamaa',
+  'Järvamaa' => 'Järvamaa',
+  'Läänemaa' => 'Läänemaa',
+  'Lääne-Virumaa' => 'Lääne-Virumaa',
+  'Põlvamaa' => 'Põlvamaa',
+  'Pärnumaa' => 'Pärnumaa',
+  'Raplamaa' => 'Raplamaa',
+  'Saaremaa' => 'Saaremaa',
+  'Tartumaa' => 'Tartumaa',
+  'Valgamaa' => 'Valgamaa',
+  'Viljandimaa' => 'Viljandimaa',
+  'Võrumaa' => 'Võrumaa',
+);

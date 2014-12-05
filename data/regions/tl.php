@@ -1,0 +1,15 @@
+<?php return array (
+  'Aileu' => 'Aileu',
+  'Ainaro' => 'Ainaro',
+  'Baucau' => 'Baucau',
+  'Bobonaro' => 'Bobonaro',
+  'Cova Lima' => 'Cova Lima',
+  'Dili' => 'Dili',
+  'Ermera' => 'Ermera',
+  'Lautem' => 'Lautem',
+  'Liquiça' => 'Liquiça',
+  'Manufahi' => 'Manufahi',
+  'Manatuto' => 'Manatuto',
+  'Oecussi' => 'Oecussi',
+  'Viqueque' => 'Viqueque',
+);

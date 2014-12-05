@@ -1,0 +1,15 @@
+<?php return array (
+  'Hodh ech Chargui' => 'Hodh ech Chargui',
+  'Hodh el Gharbi' => 'Hodh el Gharbi',
+  'Assaba' => 'Assaba',
+  'Gorgol' => 'Gorgol',
+  'Brakna' => 'Brakna',
+  'Trarza' => 'Trarza',
+  'Adrar' => 'Adrar',
+  'Dakhlet Nouâdhibou' => 'Dakhlet Nouâdhibou',
+  'Tagant' => 'Tagant',
+  'Guidimaka' => 'Guidimaka',
+  'Tiris Zemmour' => 'Tiris Zemmour',
+  'Inchiri' => 'Inchiri',
+  'Nouakchott' => 'Nouakchott',
+);

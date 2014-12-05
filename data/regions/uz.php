@@ -1,0 +1,16 @@
+<?php return array (
+  'Andijan Province' => 'Andijan Province',
+  'Bukhara Province' => 'Bukhara Province',
+  'Fergana Province' => 'Fergana Province',
+  'Jizzakh Province' => 'Jizzakh Province',
+  'Namangan Province' => 'Namangan Province',
+  'Navoiy Province' => 'Navoiy Province',
+  'Qashqadaryo Province' => 'Qashqadaryo Province',
+  'Karakalpakstan Republic' => 'Karakalpakstan Republic',
+  'Samarqand Province' => 'Samarqand Province',
+  'Sirdaryo Province' => 'Sirdaryo Province',
+  'Surxondaryo Province' => 'Surxondaryo Province',
+  'Tashkent City' => 'Tashkent City',
+  'Tashkent Province' => 'Tashkent Province',
+  'Xorazm Province' => 'Xorazm Province',
+);

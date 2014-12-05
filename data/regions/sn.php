@@ -1,0 +1,16 @@
+<?php return array (
+  'Diourbel' => 'Diourbel',
+  'Dakar' => 'Dakar',
+  'Fatick' => 'Fatick',
+  'Kaffrine' => 'Kaffrine',
+  'Kolda' => 'Kolda',
+  'Kédougou' => 'Kédougou',
+  'Kaolack' => 'Kaolack',
+  'Louga' => 'Louga',
+  'Matam' => 'Matam',
+  'Sédhiou' => 'Sédhiou',
+  'Saint-Louis' => 'Saint-Louis',
+  'Tambacounda' => 'Tambacounda',
+  'Thiès' => 'Thiès',
+  'Ziguinchor' => 'Ziguinchor',
+);

@@ -1,0 +1,18 @@
+<?php return array (
+  'Akmola' => 'Akmola',
+  'Aktobe' => 'Aktobe',
+  'Almaty City' => 'Almaty City',
+  'Almaty Region' => 'Almaty Region',
+  'Astana City' => 'Astana City',
+  'Atyrau' => 'Atyrau',
+  'Karagandy' => 'Karagandy',
+  'Kostanay' => 'Kostanay',
+  'Kyzylorda' => 'Kyzylorda',
+  'Mangystau Region' => 'Mangystau Region',
+  'Pavlodar' => 'Pavlodar',
+  'North Kazakhstan' => 'North Kazakhstan',
+  'East Kazakhstan' => 'East Kazakhstan',
+  'South Kazakhstan' => 'South Kazakhstan',
+  'West Kazakhstan' => 'West Kazakhstan',
+  'Zhambyl' => 'Zhambyl',
+);
